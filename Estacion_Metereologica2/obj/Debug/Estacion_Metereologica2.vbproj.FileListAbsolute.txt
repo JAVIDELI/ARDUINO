@@ -1,0 +1,12 @@
+C:\Users\javi_\source\repos\Estacion_Metereologica2\obj\Debug\Estacion_Metereologica2.vbprojAssemblyReference.cache
+C:\Users\javi_\source\repos\Estacion_Metereologica2\obj\Debug\Estacion_Metereologica2.Resources.resources
+C:\Users\javi_\source\repos\Estacion_Metereologica2\obj\Debug\Estacion_Metereologica2.vbproj.GenerateResource.cache
+C:\Users\javi_\source\repos\Estacion_Metereologica2\obj\Debug\Estacion_Metereologica2.vbproj.CoreCompileInputs.cache
+C:\Users\javi_\source\repos\Estacion_Metereologica2\bin\Debug\Estacion_Metereologica2.exe.config
+C:\Users\javi_\source\repos\Estacion_Metereologica2\bin\Debug\Estacion_Metereologica2.exe
+C:\Users\javi_\source\repos\Estacion_Metereologica2\bin\Debug\Estacion_Metereologica2.pdb
+C:\Users\javi_\source\repos\Estacion_Metereologica2\bin\Debug\Estacion_Metereologica2.xml
+C:\Users\javi_\source\repos\Estacion_Metereologica2\obj\Debug\Estacion_Metereologica2.exe
+C:\Users\javi_\source\repos\Estacion_Metereologica2\obj\Debug\Estacion_Metereologica2.xml
+C:\Users\javi_\source\repos\Estacion_Metereologica2\obj\Debug\Estacion_Metereologica2.pdb
+C:\Users\javi_\source\repos\Estacion_Metereologica2\obj\Debug\Estacion_Metereologica2.Estacion_Meteo.resources
