@@ -1,0 +1,121 @@
+NOTAS PROGRAMACION POR PROCEDIMIENTOS C
+
+###Tipos de datos:###
+
+char	caracter								 de -127 a 127
+int		entero									 de -32167 a 32167
+float	real(punto flotante de precision normal) de 1E-37 a 1E+37, con 6 digitos de precision
+double	real(punto flotante de doble precision)  de 1E-37 a 1E+37, con 10 digitos de precision
+void	sin valor
+bool	booleando (exclusivo de C++)true o false
+string	cadena de caracteres
+
+###Modificadores SHORT y LONG:###
+
+short int			-32767 a 32767
+lont int			-2147483647 a 2147483647
+long double			1E-37 a 1E+37, con 10 digitos de precision
+
+###Modificadores SIGNED y UNSIGNED:###
+
+unsigned char		de 0 a 255
+unsigned int		de 0 a 65535
+unsigned short int	de 0 a 65535
+unsigned long int	de 0 a 4294967195
+
+###Tamaño de los tipos de datos:###
+
+tipo	maquina 32 bits			maquina 64 bits
+char	1 byte					1 byte	
+int		4 bytes					4 byte
+long	4 bytes					8 byte
+
+
+Los valores char se representan entre comillas simples; '#'
+
+	Ejemplos de caracteres son; 'A','5','&'
+
+	Hay caracteres que aunque se escriben dobles equivalen solo a uno:
+
+	-Retroceso					'\b'
+	-salto de carro				'\n'
+	-tabulacion horizontal		'\t'
+	-comillas dobles			'\"'
+	-comilla simple				'\''
+	-Barra diagonal invertida	'\\'
+
+	###Declaracion de variables:###
+
+	tipo:		identificador:
+	int			potencia
+	float		intensidad
+
+	int main
+	{
+	int voltios, amperios, vatios;
+	}
+
+	###Declaracion de CONSTANTES:###
+
+	#define CONDUCTIVIDAD_COBRE 56
+
+	Palabra reservada const:
+	const int CONDUCTIVIDAD_COBRE = 56;
+	const float RESISTIVIDAD_COBRE = 0.00171;
+
+	###Inicializacion de variables###
+
+	tipo	identificador	valor
+	int		tension nominal	230
+
+	###OPERADORES###
+
+	operando operador operando
+	    X		+		2
+
+	Operadores aritméticos:
+
+		suma +, resta -, multiplicacion *, division /, modulo o resto %.
+
+	Operadores de bits:
+	
+	Operador	Simbolo
+	AND				&&	"ampersand"
+	OR				||	"pleca"
+	NOT				!	"exclamacion"
+	XOR				^	"no encuentro como se llama"
+
+
+https://www.w3schools.com/cpp/cpp_operators_logical.asp
+https://es.piliapp.com/symbol/ 
+	Operadores relacionales:
+	Operador relacional	Significado
+	==					igual
+	!=					distinto
+	>					mayor
+	<					menor
+	>=					mayor o igual
+	<=					menor o igual
+
+	###ORDEN DE EJECUCION DE LOS OPERADORES###
+
+	Operador	Significado			Prioridad
+	++			Incremento			Mayor
+	--			Decremento	
+	-			Signo negativo
+	*			Multiplicacion
+	/			Division
+	%			Modulo o resto
+	+			Suma
+	-			Resta				Menor
+
+	###PUNTEROS###5
+	Sintaxis; tipo de dato, *, identificador ;
+						int *puntero_potencia_instantanea;
+
+						int main(void)
+						{
+						int *potencia_instantanea;
+						int *potencia_media_instantanea;
+				
+						}
